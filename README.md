@@ -5,6 +5,7 @@
 I am a former geophysicist turned software developer, with a passion for leading edge technology. I have recently graduated from App Academy, where I acquired a deep understanding of full-stack development and honed my programming skills. I have completed several projects including a full-stack clone of Airbnb, Kickstarter, and Amazon, showcasing my ability to build and implement complex systems. I am eager to continue my growth in the tech industry and am open to new opportunities and challenges
 
 
+[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/hayschan)
 
 [https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white](https://www.linkedin.com/in/eric-chai-b5b9b337)
 <!--
