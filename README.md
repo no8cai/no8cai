@@ -9,8 +9,8 @@ ________________________________________________________________________________
 
 ### Projects
 
-#### [Amazon clone solo project](https://github.com/no8cai/atlantis)
-[Live-link](https://atlantis-tcam.onrender.com)       [Repo-link](https://github.com/no8cai/atlantis)
+#### Amazon clone solo project
+[Live-site](https://atlantis-tcam.onrender.com)       [Atlantis-repo](https://github.com/no8cai/atlantis)
 * A pixel perfect  amazon clone where users can post products, purchase products and search products. 
 * Connected the flask backend with AWS S3 for media storage while maintaining content security.
 * Generated vivid picture sliders using Javascript.
@@ -18,13 +18,13 @@ ________________________________________________________________________________
 
 
 #### Kickstarter clone group project
-[Live-link](https://firestarter.onrender.com)          [Repo-link](https://github.com/no8cai/atlantis)
+[Live-site](https://firestarter.onrender.com)          [FireStarter-repo](https://github.com/no8cai/atlantis)
 * A pixel perfect kickstarter clone where users can create projects, backed projects with purchase rewards. 
 * Search and filter through the projects and provide precise matching  projects.
 * Dynamically calculation of the total dollar amount for all the projects.  
 
 #### Airbnb clone solo project
-[Live-link](https://eccoolbnb.onrender.com)             [Repo-link](https://github.com/no8cai/atlantis)         
+[Live-site](https://eccoolbnb.onrender.com)             [ECcoolBnb-repo](https://github.com/no8cai/atlantis)         
 * A pixel perfect airbnb clone that allows users to create renting spots. And create reviews for the renting spots 
 
 _______________________________________________________________________________________________________________________________________________________________________
