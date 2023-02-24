@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 ### Projects
 
-#### Amazon clone solo project
+#### [Amazon clone solo project](https://github.com/no8cai/atlantis)
 [live-link](https://atlantis-tcam.onrender.com)
 * A pixel perfect  amazon clone where users can post products, purchase products and search products. 
 * Connected the flask backend with AWS S3 for media storage while maintaining content security.
